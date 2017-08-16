@@ -1,14 +1,5 @@
 include ':mvp-common',
-    ':mvp',
-    ':viewstate',
-    ':sample',
-    ':mvi',
+        ':mvp',
 //    ':sample-mail',
-    ':mvp-lce',
-    ':mvp-nullobject-presenter',
-    ':mvi-common',
-    ':utils-fragment-integration-test',
-    ':mvi-integration-test',
-    ':sample-mvi',
-    ':presentermanager',
-    ':utils-fragment'
+        ':presentermanager',
+        ':utils-fragment'
